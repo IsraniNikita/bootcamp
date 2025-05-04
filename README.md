@@ -12,7 +12,6 @@ A minimal web server is hosted on an Azure Virtual Machine, displaying my name a
 2. Set up a virtual machine (VM) with Ubuntu 20.04 LTS.
 3. Installed Apache web server.
 4. Created an `index.html` page displaying my name and photo.
-     ```
 
 ### ✅ Live Site
 
