@@ -37,7 +37,7 @@ Docker was installed and tested on the same VM for future DevOps tasks.
  docker --version
 
  
-🐍 Python Docker Test
+## 🐍 Python Docker Test
   1. Pulled a Python image:
       ```bash
       docker pull python
@@ -51,11 +51,11 @@ Docker was installed and tested on the same VM for future DevOps tasks.
  Docker installation and Python test steps are documented in this video:
  👉 [https://drive.google.com/file/d/1Wyfo_Y5U4a_WAvu1c-RnlL5G3mbQG7AM/view?usp=sharing]
 
- 🖥️ Client Setup Notes
+ ## 🖥️ Client Setup Notes
   WSL and Ubuntu were successfully installed on a Windows machine to provide a Linux-like development environment. This setup allows for native command-line tools and better compatibility with Docker and other DevOps tools.
   Using WSL2 with Ubuntu ensures smooth development and closely mirrors a real server environment.
 
- 📌 Summary
+ ## 📌 Summary
  This project sets up a foundational DevOps server with:
  A hosted website proving server access.
  Docker installed and tested.
