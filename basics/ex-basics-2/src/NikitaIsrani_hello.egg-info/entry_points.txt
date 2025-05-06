@@ -1,0 +1,2 @@
+[console_scripts]
+nikitaisrani-hello = nikitaisrani_hello.main:main

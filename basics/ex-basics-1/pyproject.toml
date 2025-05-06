@@ -1,0 +1,15 @@
+[project]
+name = "NikitaIsrani-hello"
+version = "0.1.2"
+description = "A simple hello module"
+authors = [{ name = "NikitaIsrani", email = "nikita08@gmail.com" }]
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+
+[project.scripts]
+NikitaIsrani-hello = "NikitaIsrani_hello.__main__:main"  # Update the callable name for entry point
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
