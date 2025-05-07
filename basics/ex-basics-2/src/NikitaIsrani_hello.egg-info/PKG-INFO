@@ -1,5 +1,0 @@
-Metadata-Version: 2.4
-Name: nikitaisrani-hello
-Version: 0.1.4
-Summary: A simple hello module with rich styling
-Requires-Dist: rich

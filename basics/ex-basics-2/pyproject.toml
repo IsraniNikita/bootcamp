@@ -1,8 +1,0 @@
-[project]
-name = "nikitaisrani-hello"
-version = "0.1.4"
-description = "A simple hello module with rich styling"
-dependencies = ["rich"]
-
-[project.scripts]
-nikitaisrani-hello = "nikitaisrani_hello.main:main"

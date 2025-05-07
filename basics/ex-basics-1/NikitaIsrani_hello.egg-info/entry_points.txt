@@ -1,2 +1,0 @@
-[console_scripts]
-NikitaIsrani-hello = NikitaIsrani_hello.__main__:main
