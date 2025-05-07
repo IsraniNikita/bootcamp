@@ -1,0 +1,9 @@
+pyproject.toml
+many_hellos/__init__.py
+many_hellos/main.py
+many_hellos.egg-info/PKG-INFO
+many_hellos.egg-info/SOURCES.txt
+many_hellos.egg-info/dependency_links.txt
+many_hellos.egg-info/entry_points.txt
+many_hellos.egg-info/requires.txt
+many_hellos.egg-info/top_level.txt

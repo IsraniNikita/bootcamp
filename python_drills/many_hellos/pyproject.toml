@@ -1,0 +1,11 @@
+[project]
+name = "many_hellos"
+version = "0.1.0"
+dependencies = ["helloworld_nikita", "typer"]
+
+[project.scripts]
+many_hellos = "many_hellos.main:app"
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"

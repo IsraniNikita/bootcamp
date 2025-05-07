@@ -1,0 +1,11 @@
+pyproject.toml
+helloworld_nikita/__init__.py
+helloworld_nikita/_default_config.yaml
+helloworld_nikita/config.py
+helloworld_nikita/hello.py
+helloworld_nikita.egg-info/PKG-INFO
+helloworld_nikita.egg-info/SOURCES.txt
+helloworld_nikita.egg-info/dependency_links.txt
+helloworld_nikita.egg-info/entry_points.txt
+helloworld_nikita.egg-info/requires.txt
+helloworld_nikita.egg-info/top_level.txt
