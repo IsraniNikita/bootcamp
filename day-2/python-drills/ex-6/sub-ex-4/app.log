@@ -1,0 +1,7 @@
+2025-05-07 11:57:19,779 [DEBUG] __main__: This is a debug message
+2025-05-07 11:57:19,780 [INFO] __main__: This is an info message
+2025-05-07 11:57:19,780 [WARNING] __main__: This is a warning
+2025-05-07 11:57:19,780 [ERROR] __main__: This is an error
+2025-05-07 11:57:19,781 [DEBUG] __main__: User: Alice
+2025-05-07 11:57:19,781 [INFO] __main__: Application started
+2025-05-07 11:57:19,782 [DEBUG] __main__: Debugging mode is ON
