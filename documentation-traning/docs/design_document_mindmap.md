@@ -1,1 +1,0 @@
-![design_document_mindmap](images/design_document_mindmap.png)
